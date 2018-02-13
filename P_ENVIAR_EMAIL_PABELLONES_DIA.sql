@@ -283,6 +283,7 @@ BEGIN
 END;
 /
 
+// ver la forma de sacar los correos de una tabla
 
 SHOW ERRORS
 
